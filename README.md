@@ -1,8 +1,6 @@
 # SettingSystem
-Setting and Module system for Minecraft Utility mod.
-
-I was bored, so i write that sheit in an 10m.
-
+Setting and Module system for Minecraft Utility mod.<br/>
+I was bored, so i write that sheit in an 10m.<br/>
 Feel free to use.
 
 # Usage
